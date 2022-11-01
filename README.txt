@@ -1,1 +1,1 @@
-Projetos de pratica de programação
+Projeto de buscador de filmes, para pratica de API e manipulação de Json
